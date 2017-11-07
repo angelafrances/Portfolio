@@ -282,6 +282,12 @@ h6 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+.collapse {
+}
+
+.collapse.show {
+  display: block;
+}
 
 .navbar-collapse {
   -ms-flex-preferred-size: 100%;
