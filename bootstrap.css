@@ -283,6 +283,7 @@ h6 {
   padding-bottom: 0.5rem;
 }
 .collapse {
+  display: none;
 }
 
 .collapse.show {
